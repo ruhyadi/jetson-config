@@ -1,0 +1,5 @@
+# usage: pip install -r requirements.txt
+
+git-python          # git management
+python-dotenv       # .env file management
+requests            # http requests
